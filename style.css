@@ -1,0 +1,26 @@
+.categorias{
+    display: flex;
+    background-color:rgb(47, 44, 44);
+}
+
+
+.logo{
+width:30%;
+justify-items:center;
+width:50px;
+
+}
+
+.logo img{
+    width: 55px;
+    justify-content: center;
+    align-items: center;
+}
+
+.listadoheader{
+    display:flex;
+    gap: 200px;
+    list-style: none;
+    color:green;
+    font-family: arial;
+}
